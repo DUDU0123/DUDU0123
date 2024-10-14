@@ -1,5 +1,3 @@
-![I am Flutter Developer](https://media.licdn.com/dms/image/v2/D4E16AQGWzn88S5iIfg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1710931589675?e=1734566400&v=beta&t=Di7aAccJTme6nbLFUVTiFZAOugEgv23KpHXljUzdYjw)
-
 ## Hi there 👋 I am Sandra Mathew
 
 - 💻 A Flutter Developer  
@@ -85,9 +83,9 @@
 </p>
 
 <!-- Next Part -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dudu0123&show_icons=true&locale=en&layout=compact" alt="dudu0123" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dudu0123&show_icons=true&locale=en&layout=compact&theme=dark" alt="dudu0123" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dudu0123&show_icons=true&locale=en" alt="dudu0123" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dudu0123&show_icons=true&locale=en&theme=dark" alt="dudu0123" /></p>
 
 <div align="start">
   <img src="https://streak-stats.demolab.com?user=DUDU0123&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
