@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Sandra Mathew
 
-- 🌱 A Flutter Developer  
+- 💻 A Flutter Developer  
 - 🌱 Currently learning Node.js and MongoDB  
 - 💬 Ask me about Flutter and related concepts
 
