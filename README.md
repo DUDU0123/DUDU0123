@@ -81,3 +81,29 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   </a>
 </p>
+
+<!-- Next Part -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dudu0123&show_icons=true&locale=en&layout=compact" alt="dudu0123" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dudu0123&show_icons=true&locale=en" alt="dudu0123" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dudu0123&" alt="dudu0123" /></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
