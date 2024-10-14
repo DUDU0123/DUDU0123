@@ -7,16 +7,16 @@
 ### Connect with me:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/sandra-mathew-996822224/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/surya_balu_chettan_katta_fan/?hl=en" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://medium.com/@mathewsandra71" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium" />
-  </a>
-  <a href="https://github.com/DUDU0123" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
-  </a>
+<a href="https://www.linkedin.com/in/sandra-mathew-996822224/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandra_mathew" height="30" width="40" />
+</a>
+<a href="https://www.instagram.com/surya_balu_chettan_katta_fan/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sandra_mathew" height="30" width="40" />
+</a>
+<a href="https://leetcode.com/u/DUDU0123/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sandra_mathew" height="30" width="40" />
+</a>
+<a href="https://github.com/DUDU0123" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="sandra_mathew" height="30" width="40" />
+</a>
 </p>
